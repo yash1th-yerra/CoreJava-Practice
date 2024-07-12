@@ -1,0 +1,35 @@
+Sure! Here are a few examples of competitive coding questions on strings in Java:
+
+1. Reverse a String: Write a program to reverse a given string. For example, if the input is "Hello, World!", the output should be "!dlroW ,olleH".
+
+2. Count Vowels and Consonants: Write a program to count the number of vowels and consonants in a given string. Ignore spaces and punctuation marks. For example, if the input is "Hello, World!", the output should be "Vowels: 3, Consonants: 7".
+
+3. Anagram Check: Given two strings, write a program to check if they are anagrams of each other. Anagrams are words or phrases formed by rearranging the letters of another word or phrase. For example, "listen" and "silent" are anagrams. Return true if the strings are anagrams, and false otherwise.
+
+4. Longest Common Prefix: Given an array of strings, find the longest common prefix among them. For example, given ["flower", "flow", "flight"], the longest common prefix is "fl". If there is no common prefix, return an empty string.
+
+5. Palindrome Check: Write a program to check if a given string is a palindrome. A palindrome is a word, phrase, number, or other sequence of characters that reads the same forward and backward. For example, "madam" and "racecar" are palindromes. Return true if the string is a palindrome, and false otherwise.
+
+6. String Compression: Given a string, write a program to perform basic string compression using the counts of repeated characters. For example, the string "aabcccccaaa" would become "a2b1c5a3". If the compressed string is not smaller than the original string, return the original string.
+
+These are just a few examples of competitive coding questions on strings in Java. There are many more challenging problems you can explore, such as string manipulation, pattern matching, and substring operations. Remember to consider edge cases and optimize your solutions for efficiency.
+Certainly! Here are a few more examples of competitive coding questions on strings in Java:
+
+7. Longest Palindromic Substring: Given a string, find the longest substring that is a palindrome. For example, given the input "babad", the output should be "bab" or "aba".
+
+8. Valid Parentheses: Given a string containing just the characters '(', ')', '{', '}', '[', and ']', determine if the input string is valid. An input string is valid if:
+
+   - Open brackets are closed by the same type of brackets.
+   - Open brackets are closed in the correct order.
+
+   For example, "{[]}" is valid, but "[{]}" is not.
+
+9. Word Break: Given a non-empty string `s` and a dictionary of words, determine if `s` can be segmented into a space-separated sequence of one or more dictionary words. For example, given `s = "leetcode"` and `wordDict = ["leet", "code"]`, return `true` because "leetcode" can be segmented as "leet code".
+
+10. String to Integer (atoi): Implement the `atoi` function, which converts a string to an integer. The function should handle whitespace characters, ignore leading non-numeric characters, and consider the sign of the number. For example, given the input string "   -42", the output should be -42.
+
+11. Group Anagrams: Given an array of strings, group them together such that all anagrams are grouped together. An anagram is a word or phrase formed by rearranging the letters of another word or phrase. For example, given ["eat", "tea", "tan", "ate", "nat", "bat"], the output should be [["eat","tea","ate"],["tan","nat"],["bat"]].
+
+12. Minimum Window Substring: Given a string `s` and a string `t`, find the minimum window in `s` which will contain all the characters in `t`. For example, given `s = "ADOBECODEBANC"` and `t = "ABC"`, the minimum window substring is "BANC".
+
+These are additional examples of competitive coding questions involving strings in Java. Each question presents a different challenge and requires careful consideration of algorithms and data structures. Remember to thoroughly understand the problem, come up with an efficient algorithm, and test your solution with various test cases.
